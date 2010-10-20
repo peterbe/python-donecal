@@ -1,0 +1,584 @@
+Downloading/unpacking anyjson
+  Getting page http://pypi.python.org/simple/anyjson
+  URLs to search for versions for anyjson:
+  * http://pypi.python.org/simple/anyjson
+  Getting page http://bitbucket.org/runeh/anyjson
+  Analyzing links from page http://pypi.python.org/simple/anyjson/
+    Found link http://pypi.python.org/packages/source/a/anyjson/anyjson-0.1.tar.gz#md5=ed7547d70c497f60808ab0d2841ca108 (from http://pypi.python.org/simple/anyjson/), version: 0.1
+    Found link http://pypi.python.org/packages/source/a/anyjson/anyjson-0.2.0.tar.gz#md5=7890252975a0efa634900e72fcbca875 (from http://pypi.python.org/simple/anyjson/), version: 0.2.0
+    Found link http://pypi.python.org/packages/source/a/anyjson/anyjson-0.2.5.tar.gz#md5=ac507f600bc8cd0cd92b5b943f46c0aa (from http://pypi.python.org/simple/anyjson/), version: 0.2.5
+    Found link http://pypi.python.org/packages/source/a/anyjson/anyjson-0.2.1.tar.gz#md5=3d6b29cb4c81af331f650fabad3cb73b (from http://pypi.python.org/simple/anyjson/), version: 0.2.1
+    Found link http://pypi.python.org/packages/source/a/anyjson/anyjson-0.2.3.tar.gz#md5=f1efac0d1b47402c9747e39e8a2957c6 (from http://pypi.python.org/simple/anyjson/), version: 0.2.3
+    Found link http://pypi.python.org/packages/source/a/anyjson/anyjson-0.2.2.tar.gz#md5=626bc3fa2531762b772100b23f4a0925 (from http://pypi.python.org/simple/anyjson/), version: 0.2.2
+    Found link http://pypi.python.org/packages/source/a/anyjson/anyjson-0.2.4.tar.gz#md5=ed707033ad6cee0a44db199c289a4c80 (from http://pypi.python.org/simple/anyjson/), version: 0.2.4
+    Skipping link http://bitbucket.org/runeh/anyjson (from http://pypi.python.org/simple/anyjson/); not a file
+    Skipping link http://github.com/ask/carrot/ (from http://pypi.python.org/simple/anyjson/); not a file
+    Skipping link mailto:runefh@gmail.com (from http://pypi.python.org/simple/anyjson/); unknown archive format: .com
+  Analyzing links from page http://bitbucket.org/runeh/anyjson
+    Skipping link http://bitbucket.org/static/hgicon.png (from http://bitbucket.org/runeh/anyjson); unknown archive format: .png
+    Skipping link http://bitbucket.org/static/style-paper.css (from http://bitbucket.org/runeh/anyjson); unknown archive format: .css
+    Skipping link http://bitbucket.org/atom-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rss-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://mercurial.selenic.com/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/graph/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/tags (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/branches (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/file/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Skipping link http://bitbucket.org/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=30 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=120 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/tip (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/40150de124d6 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d5c05cbe9d1b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1144f6ad4b12 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ea3842d390db (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/6a0a193e51e4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/23a89204736a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/720357283f8f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/814f8c248c6c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e176f9e61833 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/07388e957a28 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a5b1cebbe92 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/af4c2174382b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0522f120d6cc (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f1d4e409f748 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/c963754df636 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/db8a3d83cef9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/690439975151 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/943d6ba3f91c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ca1a14d35623 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/b5a28a1648b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a9be4c3091d1 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/10477b1f45f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7ed6574e68b4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/dd42d33ea467 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/eb00e23762b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/30cd3655bd68 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/824f9e25cd60 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/37884f45a407 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f71867cfdd23 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/92f55fe09837 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e3217a8e0f21 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/41bd8f2771b8 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ab3a8d0f1b5e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/3c0e2cb59e16 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/888a76276105 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/488e0e1397cd (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/2f1512b5a592 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/77331fe6f615 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/80c3c2e6cf77 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a8c9f62a37e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7db3bf87306f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a7f39c97ea96 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0610a0c4bf9a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1081767b42a3 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/4e7c80e51a2e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/88b8b4f8a79b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/90bdeed0a6ff (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/35229f5b94f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9c62cb86055b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+  Analyzing links from page http://bitbucket.org/runeh/anyjson
+    Skipping link http://bitbucket.org/static/hgicon.png (from http://bitbucket.org/runeh/anyjson); unknown archive format: .png
+    Skipping link http://bitbucket.org/static/style-paper.css (from http://bitbucket.org/runeh/anyjson); unknown archive format: .css
+    Skipping link http://bitbucket.org/atom-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rss-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://mercurial.selenic.com/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/graph/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/tags (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/branches (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/file/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Skipping link http://bitbucket.org/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=30 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=120 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/tip (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/40150de124d6 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d5c05cbe9d1b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1144f6ad4b12 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ea3842d390db (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/6a0a193e51e4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/23a89204736a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/720357283f8f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/814f8c248c6c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e176f9e61833 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/07388e957a28 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a5b1cebbe92 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/af4c2174382b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0522f120d6cc (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f1d4e409f748 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/c963754df636 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/db8a3d83cef9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/690439975151 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/943d6ba3f91c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ca1a14d35623 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/b5a28a1648b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a9be4c3091d1 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/10477b1f45f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7ed6574e68b4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/dd42d33ea467 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/eb00e23762b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/30cd3655bd68 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/824f9e25cd60 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/37884f45a407 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f71867cfdd23 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/92f55fe09837 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e3217a8e0f21 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/41bd8f2771b8 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ab3a8d0f1b5e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/3c0e2cb59e16 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/888a76276105 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/488e0e1397cd (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/2f1512b5a592 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/77331fe6f615 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/80c3c2e6cf77 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a8c9f62a37e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7db3bf87306f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a7f39c97ea96 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0610a0c4bf9a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1081767b42a3 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/4e7c80e51a2e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/88b8b4f8a79b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/90bdeed0a6ff (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/35229f5b94f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9c62cb86055b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+  Analyzing links from page http://bitbucket.org/runeh/anyjson
+    Skipping link http://bitbucket.org/static/hgicon.png (from http://bitbucket.org/runeh/anyjson); unknown archive format: .png
+    Skipping link http://bitbucket.org/static/style-paper.css (from http://bitbucket.org/runeh/anyjson); unknown archive format: .css
+    Skipping link http://bitbucket.org/atom-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rss-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://mercurial.selenic.com/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/graph/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/tags (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/branches (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/file/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Skipping link http://bitbucket.org/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=30 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=120 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/tip (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/40150de124d6 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d5c05cbe9d1b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1144f6ad4b12 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ea3842d390db (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/6a0a193e51e4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/23a89204736a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/720357283f8f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/814f8c248c6c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e176f9e61833 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/07388e957a28 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a5b1cebbe92 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/af4c2174382b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0522f120d6cc (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f1d4e409f748 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/c963754df636 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/db8a3d83cef9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/690439975151 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/943d6ba3f91c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ca1a14d35623 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/b5a28a1648b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a9be4c3091d1 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/10477b1f45f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7ed6574e68b4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/dd42d33ea467 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/eb00e23762b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/30cd3655bd68 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/824f9e25cd60 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/37884f45a407 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f71867cfdd23 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/92f55fe09837 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e3217a8e0f21 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/41bd8f2771b8 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ab3a8d0f1b5e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/3c0e2cb59e16 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/888a76276105 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/488e0e1397cd (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/2f1512b5a592 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/77331fe6f615 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/80c3c2e6cf77 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a8c9f62a37e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7db3bf87306f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a7f39c97ea96 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0610a0c4bf9a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1081767b42a3 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/4e7c80e51a2e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/88b8b4f8a79b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/90bdeed0a6ff (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/35229f5b94f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9c62cb86055b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+  Analyzing links from page http://bitbucket.org/runeh/anyjson
+    Skipping link http://bitbucket.org/static/hgicon.png (from http://bitbucket.org/runeh/anyjson); unknown archive format: .png
+    Skipping link http://bitbucket.org/static/style-paper.css (from http://bitbucket.org/runeh/anyjson); unknown archive format: .css
+    Skipping link http://bitbucket.org/atom-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rss-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://mercurial.selenic.com/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/graph/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/tags (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/branches (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/file/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Skipping link http://bitbucket.org/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=30 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=120 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/tip (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/40150de124d6 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d5c05cbe9d1b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1144f6ad4b12 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ea3842d390db (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/6a0a193e51e4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/23a89204736a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/720357283f8f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/814f8c248c6c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e176f9e61833 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/07388e957a28 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a5b1cebbe92 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/af4c2174382b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0522f120d6cc (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f1d4e409f748 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/c963754df636 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/db8a3d83cef9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/690439975151 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/943d6ba3f91c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ca1a14d35623 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/b5a28a1648b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a9be4c3091d1 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/10477b1f45f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7ed6574e68b4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/dd42d33ea467 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/eb00e23762b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/30cd3655bd68 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/824f9e25cd60 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/37884f45a407 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f71867cfdd23 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/92f55fe09837 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e3217a8e0f21 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/41bd8f2771b8 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ab3a8d0f1b5e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/3c0e2cb59e16 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/888a76276105 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/488e0e1397cd (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/2f1512b5a592 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/77331fe6f615 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/80c3c2e6cf77 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a8c9f62a37e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7db3bf87306f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a7f39c97ea96 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0610a0c4bf9a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1081767b42a3 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/4e7c80e51a2e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/88b8b4f8a79b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/90bdeed0a6ff (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/35229f5b94f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9c62cb86055b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+  Analyzing links from page http://bitbucket.org/runeh/anyjson
+    Skipping link http://bitbucket.org/static/hgicon.png (from http://bitbucket.org/runeh/anyjson); unknown archive format: .png
+    Skipping link http://bitbucket.org/static/style-paper.css (from http://bitbucket.org/runeh/anyjson); unknown archive format: .css
+    Skipping link http://bitbucket.org/atom-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rss-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://mercurial.selenic.com/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/graph/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/tags (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/branches (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/file/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Skipping link http://bitbucket.org/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=30 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=120 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/tip (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/40150de124d6 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d5c05cbe9d1b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1144f6ad4b12 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ea3842d390db (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/6a0a193e51e4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/23a89204736a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/720357283f8f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/814f8c248c6c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e176f9e61833 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/07388e957a28 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a5b1cebbe92 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/af4c2174382b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0522f120d6cc (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f1d4e409f748 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/c963754df636 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/db8a3d83cef9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/690439975151 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/943d6ba3f91c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ca1a14d35623 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/b5a28a1648b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a9be4c3091d1 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/10477b1f45f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7ed6574e68b4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/dd42d33ea467 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/eb00e23762b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/30cd3655bd68 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/824f9e25cd60 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/37884f45a407 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f71867cfdd23 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/92f55fe09837 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e3217a8e0f21 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/41bd8f2771b8 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ab3a8d0f1b5e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/3c0e2cb59e16 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/888a76276105 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/488e0e1397cd (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/2f1512b5a592 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/77331fe6f615 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/80c3c2e6cf77 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a8c9f62a37e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7db3bf87306f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a7f39c97ea96 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0610a0c4bf9a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1081767b42a3 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/4e7c80e51a2e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/88b8b4f8a79b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/90bdeed0a6ff (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/35229f5b94f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9c62cb86055b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+  Analyzing links from page http://bitbucket.org/runeh/anyjson
+    Skipping link http://bitbucket.org/static/hgicon.png (from http://bitbucket.org/runeh/anyjson); unknown archive format: .png
+    Skipping link http://bitbucket.org/static/style-paper.css (from http://bitbucket.org/runeh/anyjson); unknown archive format: .css
+    Skipping link http://bitbucket.org/atom-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rss-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://mercurial.selenic.com/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/graph/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/tags (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/branches (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/file/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Skipping link http://bitbucket.org/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=30 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=120 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/tip (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/40150de124d6 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d5c05cbe9d1b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1144f6ad4b12 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ea3842d390db (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/6a0a193e51e4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/23a89204736a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/720357283f8f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/814f8c248c6c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e176f9e61833 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/07388e957a28 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a5b1cebbe92 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/af4c2174382b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0522f120d6cc (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f1d4e409f748 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/c963754df636 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/db8a3d83cef9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/690439975151 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/943d6ba3f91c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ca1a14d35623 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/b5a28a1648b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a9be4c3091d1 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/10477b1f45f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7ed6574e68b4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/dd42d33ea467 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/eb00e23762b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/30cd3655bd68 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/824f9e25cd60 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/37884f45a407 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f71867cfdd23 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/92f55fe09837 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e3217a8e0f21 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/41bd8f2771b8 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ab3a8d0f1b5e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/3c0e2cb59e16 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/888a76276105 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/488e0e1397cd (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/2f1512b5a592 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/77331fe6f615 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/80c3c2e6cf77 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a8c9f62a37e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7db3bf87306f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a7f39c97ea96 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0610a0c4bf9a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1081767b42a3 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/4e7c80e51a2e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/88b8b4f8a79b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/90bdeed0a6ff (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/35229f5b94f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9c62cb86055b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+  Analyzing links from page http://bitbucket.org/runeh/anyjson
+    Skipping link http://bitbucket.org/static/hgicon.png (from http://bitbucket.org/runeh/anyjson); unknown archive format: .png
+    Skipping link http://bitbucket.org/static/style-paper.css (from http://bitbucket.org/runeh/anyjson); unknown archive format: .css
+    Skipping link http://bitbucket.org/atom-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rss-log (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://mercurial.selenic.com/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/graph/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/tags (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/branches (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/file/9524319556c2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.bz2 (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.zip (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Could not parse version from link: http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson)
+    Skipping link http://bitbucket.org/archive/tip.tar.gz (from http://bitbucket.org/runeh/anyjson); wrong project name (not anyjson)
+    Skipping link http://bitbucket.org/ (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=30 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/50?revcount=120 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/shortlog/tip (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/40150de124d6 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d5c05cbe9d1b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1144f6ad4b12 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ea3842d390db (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/6a0a193e51e4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/23a89204736a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/720357283f8f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/814f8c248c6c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e176f9e61833 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/07388e957a28 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a5b1cebbe92 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/af4c2174382b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0522f120d6cc (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f1d4e409f748 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/c963754df636 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/db8a3d83cef9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/690439975151 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/943d6ba3f91c (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ca1a14d35623 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/b5a28a1648b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a9be4c3091d1 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/10477b1f45f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7ed6574e68b4 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/dd42d33ea467 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/eb00e23762b2 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/30cd3655bd68 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/824f9e25cd60 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/37884f45a407 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/f71867cfdd23 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/92f55fe09837 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/e3217a8e0f21 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/41bd8f2771b8 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/ab3a8d0f1b5e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/3c0e2cb59e16 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/888a76276105 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/488e0e1397cd (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/2f1512b5a592 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/77331fe6f615 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/80c3c2e6cf77 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1a8c9f62a37e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/7db3bf87306f (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/a7f39c97ea96 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/0610a0c4bf9a (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/1081767b42a3 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/4e7c80e51a2e (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/88b8b4f8a79b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/90bdeed0a6ff (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/35229f5b94f9 (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/9c62cb86055b (from http://bitbucket.org/runeh/anyjson); not a file
+    Skipping link http://bitbucket.org/rev/d9fc14055ab9 (from http://bitbucket.org/runeh/anyjson); not a file
+  Using version 0.2.5 (newest of versions: 0.2.5, 0.2.4, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1)
+  Downloading anyjson-0.2.5.tar.gz
+  Downloading from URL http://pypi.python.org/packages/source/a/anyjson/anyjson-0.2.5.tar.gz#md5=ac507f600bc8cd0cd92b5b943f46c0aa (from http://pypi.python.org/simple/anyjson/)
+  Running setup.py egg_info for package anyjson
+    running egg_info
+    creating pip-egg-info/anyjson.egg-info
+    writing pip-egg-info/anyjson.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/anyjson.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/anyjson.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/anyjson.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/anyjson.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/anyjson.egg-info/SOURCES.txt'
+  Source in ./build/anyjson has version 0.2.5, which satisfies requirement anyjson
+Installing collected packages: anyjson
+  Running setup.py install for anyjson
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py'; execfile('/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py')" install --single-version-externally-managed --record /tmp/pip-in44HI-record/install-record.txt --install-headers /home/peterbe/dev/PYTHON/python-donecal/donecal/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-i686-2.6
+    creating build/lib.linux-i686-2.6/anyjson
+    copying anyjson/__init__.py -> build/lib.linux-i686-2.6/anyjson
+    running install_lib
+    creating /usr/local/lib/python2.6/dist-packages/anyjson
+    error: could not create '/usr/local/lib/python2.6/dist-packages/anyjson': Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py'; execfile('/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py')" install --single-version-externally-managed --record /tmp/pip-in44HI-record/install-record.txt --install-headers /home/peterbe/dev/PYTHON/python-donecal/donecal/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-i686-2.6
+
+creating build/lib.linux-i686-2.6/anyjson
+
+copying anyjson/__init__.py -> build/lib.linux-i686-2.6/anyjson
+
+running install_lib
+
+creating /usr/local/lib/python2.6/dist-packages/anyjson
+
+error: could not create '/usr/local/lib/python2.6/dist-packages/anyjson': Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py'; execfile('/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py')" install --single-version-externally-managed --record /tmp/pip-in44HI-record/install-record.txt --install-headers /home/peterbe/dev/PYTHON/python-donecal/donecal/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py'; execfile('/home/peterbe/dev/PYTHON/python-donecal/donecal/build/anyjson/setup.py')" install --single-version-externally-managed --record /tmp/pip-in44HI-record/install-record.txt --install-headers /home/peterbe/dev/PYTHON/python-donecal/donecal/lib/include failed with error code 1

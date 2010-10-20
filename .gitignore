@@ -1,0 +1,5 @@
+*~
+*.pyc
+donecal.egg-info/
+dist/
+build/
