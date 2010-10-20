@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys, os
 
-version = '0.1'
+version = '0.2'
 long_description = open('README.md').read().strip() + "\n\n"
 def md2stx(s):
     import re
@@ -10,7 +10,7 @@ def md2stx(s):
 long_description = md2stx(long_description)
             
 
-setup(name='donecal',
+setup(name='python-donecal',
       version=version,
       description="Python interface for the donecal.com restful HTTP API",
       long_description=long_description,
@@ -18,7 +18,7 @@ setup(name='donecal',
       keywords='donecal rest api donecal.com',
       author='Peter Bengtsson',
       author_email='mail@peterbe.com',
-      url='http://donecal.com/help/api#python',
+      url='http://donecal.com/help/API#Python',
       license='BSD',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
       include_package_data=True,
