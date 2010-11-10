@@ -49,6 +49,6 @@ Here's some sample code to get you started:
 Limitations
 -----------
 
-At the moment there are rate limitations but there might be some time
+At the moment there are no rate limitations but there might be some time
 in the future to ensure fair access for everyone. 
 
