@@ -2,4 +2,6 @@
 *.pyc
 donecal.egg-info/
 dist/
-build/
+build/python_donecal.egg-info/
+python_donecal.egg-info
+build
