@@ -2,14 +2,20 @@
 from setuptools import setup
 import sys, os
 
-version = '0.2.4'
-#here = os.path.dirname(__file__)
-#def read(fname):
-#    return open(os.path.join(os.path.dirname(__file__), fname)).read()
-#def md2stx(s):
-#    import re
-#    s = re.sub(':\n(\s{8,10})', r'::\n\1', s)
-#    return s
+version = '0.3'
+here = os.path.dirname(__file__)
+def read(fname):
+    try:
+        return open(os.path.join(os.path.dirname(__file__), fname)).read()
+    except IOError:
+        # happens because the README.md isn't available. This happens
+        # when you install the package.
+        # Need to figure out why this happens
+        return ""
+def md2stx(s):
+    import re
+    s = re.sub(':\n(\s{8,10})', r'::\n\1', s)
+    return s
 
 setup(name='python-donecal',
       version=version,
