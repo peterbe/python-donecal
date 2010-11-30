@@ -1,0 +1,5 @@
+setup.cfg
+setup.py
+donecal/__init__.py
+donecal/donecal.py
+README.md

@@ -1,22 +1,19 @@
 #from setuptools import setup, find_packages
-from distutils.core import setup
+from setuptools import setup
 import sys, os
 
-version = '0.2.2'
-here = os.path.dirname(__file__)
-
-def read(fname):
-    return open(os.path.join(os.path.dirname(__file__), fname)).read()
-
-def md2stx(s):
-    import re
-    s = re.sub(':\n(\s{8,10})', r'::\n\1', s)
-    return s
+version = '0.2.4'
+#here = os.path.dirname(__file__)
+#def read(fname):
+#    return open(os.path.join(os.path.dirname(__file__), fname)).read()
+#def md2stx(s):
+#    import re
+#    s = re.sub(':\n(\s{8,10})', r'::\n\1', s)
+#    return s
 
 setup(name='python-donecal',
       version=version,
       description="Python interface for the donecal.com restful HTTP API",
-      long_description=md2stx(read('README.md')),
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='donecal rest api donecal.com',
       author='Peter Bengtsson',
