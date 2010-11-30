@@ -23,7 +23,7 @@ class DoneCal(object):
         
     
     def add_event(self, title, date=None, start=None, end=None, 
-                  all_day=None, url=None):
+                  all_day=None, url=None, description=None):
         """return a tuple of the event (as a dict) and whether the event was
         actually created (as opposed to found as a duplicate)"""
         
@@ -44,10 +44,13 @@ class DoneCal(object):
                 raise ValueError("end must be a datetime.date or "\
                                  "datetime.datetime instance")
                                  
-        return self._add_event(title, date, start, end, all_day, url=url)
+        return self._add_event(title, date, start, end, all_day, 
+                               url=url,
+                               description=description)
 
                 
-    def _add_event(self, title, date, start, end, all_day, url=None):
+    def _add_event(self, title, date, start, end, all_day, 
+                   url=None, description=None):
         if isinstance(title, unicode):
             title = title.encode('utf8')
         values = dict(title=title,
@@ -62,6 +65,8 @@ class DoneCal(object):
 
         if url is not None:
             values['url'] = url
+        if description is not None:
+            values['description'] = description
         data = urlencode(values)
         url = self.base_url + '/api/events'
         req = urllib2.Request(url, data)
