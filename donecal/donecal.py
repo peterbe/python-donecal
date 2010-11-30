@@ -5,7 +5,6 @@ import datetime
 import anyjson
 import urllib2
 from urllib import urlencode
-
 BASE_URL = 'http://donecal.com'
 
 class ConnectionError(Exception):
