@@ -1,5 +1,6 @@
-setup.cfg
-setup.py
-donecal/__init__.py
-donecal/donecal.py
-README.md
+include README.md
+include donecal/donecal.py
+include donecal/__init__.py
+include donecal/version.txt
+
+
